@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+# Compiled Python files
+*.pyc
+__pycache__/
+# Operating system files
+.DS_Store # macOS specific
+# Generated data files (optional - remove if you want to track them)
+*.csv
